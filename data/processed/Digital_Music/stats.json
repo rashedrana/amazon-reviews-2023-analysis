@@ -1,0 +1,23 @@
+{
+  "category": "Digital_Music",
+  "source": "Digital_Music.jsonl",
+  "total_reviews_counted": 130434,
+  "date_range": {
+    "min": "1997-09-18",
+    "max": "2023-09-06"
+  },
+  "rating_distribution": {
+    "1.0": 6136,
+    "2.0": 3159,
+    "3.0": 6392,
+    "4.0": 14129,
+    "5.0": 100618
+  },
+  "avg_rating": 4.5328,
+  "unique_users": 100952,
+  "unique_items_parent_asin": 70511,
+  "helpful_field_name_in_file": "helpful_vote",
+  "fact_sample_rows": 50000,
+  "fact_sample_method": "first-N rows of the file, in file order",
+  "monthly_cells": 307
+}
